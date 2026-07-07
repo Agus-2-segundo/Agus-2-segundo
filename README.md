@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <h2 align="center">Internships</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://tryhackme.com/img/favicon.png" height="45" alt="TryHackMe"/>
+
 </div>
 <div align="center">
 
