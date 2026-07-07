@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="assets/Billy Westor.png" alt="Banner" width="100%">
+</p>
 
 <h2 align="center">Internships</h2>
 <div align="center">
